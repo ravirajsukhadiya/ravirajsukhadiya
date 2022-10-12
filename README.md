@@ -5,7 +5,7 @@ Previously, I worked in [C U Shah Government Polytechnic College Surendranagar](
 #### Website: [ravirajsukhadiya.github.io](https://ravirajsukhadiya.github.io/)
 
 <a href="https://github.com/ravirajsukhadiya/ravirajsukhadiya">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravirajsukhadiya&count_private=true&show_icons=true&theme=synthwave" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravirajsukhadiya&count_private=true&show_icons=true&theme=highcontrast" />
 </a>
  
 <a href="https://github.com/ravirajsukhadiya/ravirajsukhadiya">
